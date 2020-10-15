@@ -9,7 +9,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && ng serve -o"
+    "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && ng serve -o",
+    "scan": "ts-node-client --url \"https://develop.dev.trustsource.io\" -k apikeySample -p \"New node sample\""
   },
   "engines": {
     "node": "6.11.1",
