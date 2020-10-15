@@ -10,7 +10,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && ng serve -o",
-    "scan": "ts-node-client --url \"https://develop.dev.trustsource.io\" -k d56a529c-fb9b-46f2-b726-ec3f57acdb84 -p \"New node sample\""
+    "scan": "ts-node-client --url \"https://develop.dev.trustsource.io\" -k apikeySample -p \"New node sample\""
   },
   "engines": {
     "node": "6.11.1",
@@ -44,6 +44,7 @@
     "hammerjs": "2.0.8",
     "jquery": "3.5.1",
     "moment": "2.29.1",
+    "node-cron": "^2.0.3",
     "perfect-scrollbar": "1.5.0",
     "popper.js": "1.16.1",
     "rxjs": "6.6.3",
