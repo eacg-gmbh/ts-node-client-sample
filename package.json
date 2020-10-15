@@ -1,6 +1,6 @@
 {
-  "name": "material-dashboard-angular",
-  "version": "2.5.0",
+  "name": "ts-node-client-sample",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
