@@ -1,4 +1,4 @@
-# [Material Dashboard Angular - Free Bootstrap Material Design Admin][![version][version-badge]][CHANGELOG]
+# ts-node-client-sample
 
 **[Material Dashboard Angular]** is a free Material Bootstrap Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. Material Dashboard was built over the popular Bootstrap framework and it comes with a couple of third-party plugins redesigned to fit in with the rest of the elements.
 
@@ -14,20 +14,6 @@ Special thanks go to:
 We are very excited to share this dashboard with you and we look forward to hearing your feedback!
 
 You can find the Github Repo here.
-
-## Table of Contents
-
-* [Versins](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
 
 ## Terminal Commands
 
@@ -167,7 +153,3 @@ We use GitHub Issues as the official bug tracker for the Material Dashboard. Her
 ## Technical Support or Questions
 
 If you have questions or need help integrating the product please [contact us] instead of opening an issue.
-
-[CHANGELOG]: ./CHANGELOG.md
-
-[version-badge]: https://img.shields.io/badge/version-2.5.0-blue.svg
