@@ -21,6 +21,6 @@
     "bootstrap": "4.5.2"
   },
   "devDependencies": {
-    "ecs-node-client": "0.3.3"
+    "ecs-node-client": "0.2.5"
   }
 }
