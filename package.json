@@ -58,6 +58,6 @@
     "node-iohook": "^0.0.3"
   },
   "devDependencies": {
-    "ts-node-client": "^1.1.2",
+    "ts-node-client": "^1.1.2"
   }
 }
