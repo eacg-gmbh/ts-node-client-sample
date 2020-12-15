@@ -1,6 +1,6 @@
 {
   "name": "ts-node-client-sample",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -18,7 +18,7 @@
   },
   "private": true,
   "dependencies": {
-    "bootstrap": "4.5.2",
+    "bootstrap": "4.5.2"
   },
   "devDependencies": {
     "ts-node-client": "^1.1.2"
