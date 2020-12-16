@@ -13,11 +13,12 @@
     "scan": "ts-node-client --url \"https://develop.dev.trustsource.io\" -k apikeySample -p \"New node sample\""
   },
   "engines": {
-    "node": "6.11.1",
-    "npm": "3.10.9"
+    "node": ">6.11.1",
+    "npm": ">3.10.9"
   },
   "private": true,
   "dependencies": {
+    "apache-2.0": "^1.0.7",
     "bootstrap": "4.5.2"
   },
   "devDependencies": {
