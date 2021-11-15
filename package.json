@@ -2,6 +2,12 @@
   "name": "ts-node-client-sample",
   "version": "1.0.5",
   "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.5.2"
+  },
+  "devDependencies": {
+    "ts-node-client": "^1.5.1"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -10,17 +16,11 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install",
-    "scan": "ts-node-client --url \"https://develop.dev.trustsource.io\" -k apikeySample -p \"New node sample\""
+    "scan": "ts-node-client"
   },
   "engines": {
     "node": "6.11.1",
     "npm": "3.10.9"
   },
-  "private": true,
-  "dependencies": {
-    "bootstrap": "4.5.2"
-  },
-  "devDependencies": {
-    "ts-node-client": "^1.2.2"
-  }
+  "private": true
 }
